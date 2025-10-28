@@ -1,1 +1,1 @@
-feature merge demo1
+conflict 1
